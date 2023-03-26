@@ -1,0 +1,4 @@
+git+https://github.com/huggingface/diffusers.git
+flask
+transformers
+accelerate
